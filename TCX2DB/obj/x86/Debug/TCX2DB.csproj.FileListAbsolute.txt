@@ -1,0 +1,10 @@
+\\coa.ad.gatech.edu\gtfs\Students\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\TCX2DB.exe.config
+\\coa.ad.gatech.edu\gtfs\Students\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\obj\x86\Debug\TCX2DB.csprojResolveAssemblyReference.cache
+M:\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\TCX2DB.exe.config
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\TCX2DB.exe.config
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\Workouts.mdb
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\TCX2DB.exe
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\bin\Debug\TCX2DB.pdb
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\obj\x86\Debug\TCX2DB.exe
+C:\Documents and Settings\gtg221h\My Documents\Visual Studio 2010\Projects\TCX2DB\TCX2DB\obj\x86\Debug\TCX2DB.pdb
